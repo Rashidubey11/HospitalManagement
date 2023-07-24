@@ -53,11 +53,7 @@
 
 	<!-- start 1st Div -->
 
-	<div class="container-fluid my-bg-img p-5">
-		<!-- css background image -->
-		<p class="text-center fs-2 text-white"></p>
-
-	</div>
+	
 
 	<!-- end of 1st Div -->
 

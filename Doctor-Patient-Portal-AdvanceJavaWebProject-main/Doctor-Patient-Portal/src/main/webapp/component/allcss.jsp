@@ -42,6 +42,10 @@ body {
 .myP-color{
 	color: black;
 }
+.new{
+
+justify-content: center;
+}
 
 
 </style>
